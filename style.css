@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(225, 249, 250);
+}
+img{
+    height: 400px;
+    width: 400px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.description{
+    font-size: 20px;
+}
+#cook-time{
+    font-weight: bold;
+}
+h2 {
+  
+    color: #1f3057;
+}
+.ingredients li {
+    list-style: square;
+
+}
+p.time{
+    color: gray;
+}
+.external-link{
+    color: blue;
+}
+h1 ,h2 ,p , li {
+font-family: Helvetica;
+}
+.sub-heading{
+    color: brown;
+}
